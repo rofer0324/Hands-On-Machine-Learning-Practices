@@ -1,0 +1,8 @@
+#Evitar la carpeta que contendra el entorno virtual
+MachineL
+
+#Archivos Log
+*.log
+
+#Archivo de atributos
+.gitattributes
